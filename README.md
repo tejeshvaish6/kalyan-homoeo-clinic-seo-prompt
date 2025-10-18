@@ -1,10 +1,10 @@
-# Kalyan Homoeo Clinic SEO Prompt
+# Comprehensive SEO Implementation Prompts
 
-This repository contains a comprehensive SEO implementation prompt for medical clinic websites, specifically designed for homeopathic clinics.
+This repository contains comprehensive SEO implementation prompts for websites using React, TypeScript, and Vite.
 
 ## Overview
 
-The prompt covers:
+The prompts cover:
 - Technical SEO implementation
 - Content optimization strategies
 - Structured data markup
@@ -12,13 +12,44 @@ The prompt covers:
 - Local SEO optimization
 - Monitoring and analytics setup
 
+## Available Prompts
+
+### 1. Medical Clinic SEO Prompt
+- **File**: `Kalyan-Homoeo-Clinic-SEO-Prompt.md`
+- **Purpose**: Specialized SEO implementation for medical clinic websites
+- **Features**: Medical-specific schemas, local SEO, patient-focused content optimization
+- **Best for**: Healthcare providers, medical clinics, doctors, dentists, etc.
+
+### 2. Universal SEO Prompt
+- **File**: `Universal-SEO-Implementation-Prompt.md`
+- **Purpose**: Generic SEO implementation for any website
+- **Features**: Flexible schemas, industry adaptations, comprehensive coverage
+- **Best for**: Any website type - business, e-commerce, blog, SaaS, etc.
+
 ## Usage
 
-This prompt can be used to implement complete SEO optimization for any medical clinic website using React, TypeScript, and Vite.
+Choose the appropriate prompt based on your website type:
 
-## Files
+- **Medical/Healthcare websites**: Use the Medical Clinic SEO Prompt
+- **All other websites**: Use the Universal SEO Prompt
 
-- `Kalyan-Homoeo-Clinic-SEO-Prompt.md` - Complete SEO implementation guide
+Both prompts provide complete implementation guides with:
+- React/TypeScript components
+- Structured data schemas
+- Performance optimization
+- Content guidelines
+- Implementation checklists
+
+## Key Features
+
+- ✅ Complete React/TypeScript SEO components
+- ✅ Structured data (JSON-LD) implementation
+- ✅ Performance optimization with Vite
+- ✅ Mobile-first responsive design
+- ✅ Social media optimization (Open Graph, Twitter Cards)
+- ✅ Local SEO strategies
+- ✅ Analytics and monitoring setup
+- ✅ Step-by-step implementation guide
 
 ## License
 
